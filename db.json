@@ -1,0 +1,24 @@
+{
+    "products": [
+        {"id":1,"name":"Eagle, golden","category":"Red"},
+        {"id":2,"name":"Yellow-bellied marmot","category":"Mauv"},
+        {"id":3,"name":"Antelope ground squirrel","category":"Goldenrod"},
+        {"id":4,"name":"African skink","category":"Red"},
+        {"id":5,"name":"Herring gull","category":"Teal"},
+        {"id":6,"name":"Tayra","category":"Fuscia"},
+        {"id":7,"name":"Flicker, field","category":"Red"},
+        {"id":8,"name":"Moose","category":"Green"},
+        {"id":9,"name":"Gray rhea","category":"Orange"},
+        {"id":10,"name":"Black-cheeked waxbill","category":"Turquoise"},
+        {"id":11,"name":"Little brown bat","category":"Mauv"},
+        {"id":12,"name":"Eagle owl (unidentified)","category":"Puce"},
+        {"id":13,"name":"Macaw, red and blue","category":"Green"},
+        {"id":14,"name":"Masked booby","category":"Orange"},
+        {"id":15,"name":"Peacock, indian","category":"Blue"},
+        {"id":16,"name":"Ass, asiatic wild","category":"Pink"},
+        {"id":17,"name":"Smith's bush squirrel","category":"Blue"},
+        {"id":18,"name":"Indian peacock","category":"Maroon"},
+        {"id":19,"name":"Stork, painted","category":"Indigo"},
+        {"id":20,"name":"Ocelot","category":"Khaki"}
+    ]
+}
